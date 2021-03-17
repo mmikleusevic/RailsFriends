@@ -1,3 +1,3 @@
 # Friends list app
 
-This is my Ruby on rails app.
+https://railsfriendsherokuapp.herokuapp.com/ Link for app
